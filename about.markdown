@@ -2,6 +2,7 @@
 layout: page
 title: About me
 permalink: /about/
+# permalink: 
 ---
 <!-- 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
@@ -26,4 +27,5 @@ Research interests:
 - Quantum Computing
 - Wireless Sensor Networks
 
-Publications on [Google Scholar](https://scholar.google.com/citations?user=la8l3nQAAAAJ&hl=en)
+Publications on [Google Scholar](https://scholar.google.com/citations?user=la8l3nQAAAAJ&hl=en).
+
