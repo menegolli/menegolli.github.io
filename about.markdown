@@ -29,4 +29,4 @@ Research interests:
 
 Publications on [Google Scholar](https://scholar.google.com/citations?user=la8l3nQAAAAJ&hl=en).
 
-Detailed CV [here](/_site/cv/CV_edoardo_giusto.pdf)
+Detailed CV [here]({{ site.url }}/cv/CV_edoardo_giusto.pdf).
