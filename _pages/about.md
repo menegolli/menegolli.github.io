@@ -31,10 +31,19 @@ Before joining the University of Naples, I served as a PostDoctoral research ass
 under an European Union [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
 
 
+I organized the [Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS)](https://publish.illinois.edu/v-dcqcse2024/) and I will be chairing the [First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems](https://dchcqcs.github.io/) at [QCE'24](https://qce.quantum.ieee.org/2024/).
+
+
 I am a technical committee member for the IEEE QCE - Quantum Week conference, and also for IEEE CTSoc Quantum in Consumer Technology.
+I organized [Workshop on Quantum in Consumer Technology](https://wqctatqce.github.io/) at QCE'23 and '24.
 
-My research is focused on the reliability, compilation and problem mapping on Quantum Computing (QC) devices, as well as on the application of QC to solve complex problems.
+#### Research Interests
 
+Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: HPC-QC.
+My research revolves around the dependability of such hybrid systems, from the point of view of reproducibility of computation results, resilience to hardware and software failures, security and privacy of code and data.
+<!-- My research is focused on the reliability, compilation and problem mapping on Quantum Computing (QC) devices, as well as on the application of QC to solve complex problems. -->
+
+#### CV
 Updated CV available [here](CV_edoardo_giusto.pdf).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
