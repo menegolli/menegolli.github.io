@@ -28,9 +28,9 @@ Currently, I hold the position of Assistant Professor with the [Department of El
 Before joining the University of Naples, I served as a PostDoctoral research assistant at [Politecnico di Torino](https://www.polito.it/en) and as a visiting postdoc at the [Superconducting Quantum Materials and Systems (SQMS) center](https://sqmscenter.fnal.gov/) at [Fermi National Accelerator Laboratory](https://www.fnal.gov/)
 under an European Union [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
 
+I am a technical committee member for IEEE [Quantum Week (QCE)](https://qce.quantum.ieee.org/), [Design, Automation and Test in Europe (DATE)](https://www.date-conference.com/), and [Design Automation Conference](https://www.dac.com/).
 I organized the [Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS)](https://publish.illinois.edu/v-dcqcse2024/) and chaired the [First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems](https://dchcqcs.github.io/) at [QCE'24](https://qce.quantum.ieee.org/2024/).
-
-I am a technical committee member for the IEEE QCE - Quantum Week conference, and also for IEEE CTSoc Quantum in Consumer Technology.
+I am also member of the IEEE CTSoc Quantum in Consumer Technology.
 I organized [Workshop on Quantum in Consumer Technology](https://wqctatqce.github.io/) at QCE'23 and '24.
 
 #### Research Interests
@@ -43,6 +43,10 @@ My research revolves around the dependability of such hybrid systems, from the p
 #### CV
 
 Updated CV available [here](CV_edoardo_giusto.pdf).
+
+#### Master's Degree Thesis Proposals
+
+Available [here](https://docs.google.com/document/d/1WLoO7PI8x539bZrD9oJePt2C0vzhdBDRaLGat58_nTI/edit?usp=sharing).
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
