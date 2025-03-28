@@ -26,6 +26,10 @@ Currently, I hold the position of Assistant Professor with the [Department of El
 
 Before joining the University of Naples, I served as a Postdoctoral Research Assistant at [Politecnico di Torino](https://www.polito.it/en) and as a visiting postdoc at the [Superconducting Quantum Materials and Systems (SQMS) center](https://sqmscenter.fnal.gov/) at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) under an EU [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
 
+#### Research Interests
+
+Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: HPC-QC. My research revolves around the dependability of such hybrid systems, including reproducibility of computation results, resilience to hardware and software failures, and security and privacy of code and data.
+
 #### Conference Organization and Committee Engagement
 
 - **General Chair:**
@@ -37,8 +41,8 @@ Before joining the University of Naples, I served as a Postdoctoral Research Ass
   - [Software Frameworks for Integrating Quantum and HPC Ecosystems Workshop](https://sfwqhe.github.io/sfwqhpc/), ICS 2025.
   - [Quantum Classical Cooperative Computing (QCCC) Workshop](https://qcccadmin.github.io/qccc/), ISCA 2025.
   - [IEEE Quantum Week (QCE)](https://qce.quantum.ieee.org/)
-  - [Design, Automation and Test in Europe (DATE)](https://www.date-conference.com/)
-  - [Design Automation Conference (DAC)](https://www.dac.com/)
+  - [Design, Automation and Test in Europe (DATE)](https://www.date-conference.com/), DATE 2025
+  - [Design Automation Conference (DAC)](https://www.dac.com/), DAC 2025
 
 - **Organizer:**
   - [Special Session "Good, Bad, & Ugly in Quantum Computing"](https://ets2025.taltech.ee/), ETS 2025.
@@ -47,11 +51,10 @@ Before joining the University of Naples, I served as a Postdoctoral Research Ass
 
 #### Professional Memberships
 
-- IEEE CTSoc Quantum in Consumer Technology Technical Committee Member.
+- ACM
+- IEEE 
+    - Vice Chair CTSoc [Quantum in Consumer Technology](https://ctsoc.ieee.org/technical/technical-committees/qct-tc.html) Technical Committee.
 
-#### Research Interests
-
-Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: HPC-QC. My research revolves around the dependability of such hybrid systems, including reproducibility of computation results, resilience to hardware and software failures, and security and privacy of code and data.
 
 #### CV
 
