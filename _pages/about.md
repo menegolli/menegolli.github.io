@@ -2,43 +2,56 @@
 layout: about
 title: about
 permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 subtitle: Assistant Professor @ University of Naples, Federico II
 
 profile:
   align: right
   image: edo_qc.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p>DIETI</p>
     <p>Via Claudio, 21</p>
     <p>80125</p>
-    <p>Naples</p>
-    <p>Italy</p>
+    <p>Naples, Italy</p>
     <p>+1 (630) 486-7768</p>
     <p>+39 347 6521002</p>
 
-news: false # includes a list of news items
-latest_posts: false # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false
+latest_posts: false
+selected_papers: true
+social: true
 ---
 
 Currently, I hold the position of Assistant Professor with the [Department of Electrical Engineering and Information Technology](https://www.dieti.unina.it/index.php/en/) at the [University of Naples Federico II, Italy](https://www.unina.it/en_GB/home).
-Before joining the University of Naples, I served as a PostDoctoral research assistant at [Politecnico di Torino](https://www.polito.it/en) and as a visiting postdoc at the [Superconducting Quantum Materials and Systems (SQMS) center](https://sqmscenter.fnal.gov/) at [Fermi National Accelerator Laboratory](https://www.fnal.gov/)
-under an European Union [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
 
-I am a technical committee member for IEEE [Quantum Week (QCE)](https://qce.quantum.ieee.org/), [Design, Automation and Test in Europe (DATE)](https://www.date-conference.com/), and [Design Automation Conference](https://www.dac.com/).
-I organized the [Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS)](https://publish.illinois.edu/v-dcqcse2024/) and chaired the [First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems](https://dchcqcs.github.io/) at [QCE'24](https://qce.quantum.ieee.org/2024/).
-I am also member of the IEEE CTSoc Quantum in Consumer Technology.
-I organized [Workshop on Quantum in Consumer Technology](https://wqctatqce.github.io/) at QCE'23 and '24.
+Before joining the University of Naples, I served as a Postdoctoral Research Assistant at [Politecnico di Torino](https://www.polito.it/en) and as a visiting postdoc at the [Superconducting Quantum Materials and Systems (SQMS) center](https://sqmscenter.fnal.gov/) at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) under an EU [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
+
+#### Conference Organization and Committee Engagement
+
+- **General Chair:**
+  - [Foundations Of Reliable Classical-Quantum Engineering (FORCE) Workshop](https://sites.google.com/view/force2025/home), DSN 2025.
+  - [First Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems](https://dchcqcs.github.io/), QCE 2024.
+
+- **Program Committee Member:**
+  - [Software for the Integration of Quantum and HPC Ecosystems Workshop](https://sfwqhe.github.io/sfwm-qhpce/), SC 2025.
+  - [Software Frameworks for Integrating Quantum and HPC Ecosystems Workshop](https://sfwqhe.github.io/sfwqhpc/), ICS 2025.
+  - [Quantum Classical Cooperative Computing (QCCC) Workshop](https://qcccadmin.github.io/qccc/), ISCA 2025.
+  - [IEEE Quantum Week (QCE)](https://qce.quantum.ieee.org/)
+  - [Design, Automation and Test in Europe (DATE)](https://www.date-conference.com/)
+  - [Design Automation Conference (DAC)](https://www.dac.com/)
+
+- **Organizer:**
+  - [Special Session "Good, Bad, & Ugly in Quantum Computing"](https://ets2025.eu/special-sessions/), ETS 2025.
+  - [Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS)](https://publish.illinois.edu/v-dcqcse2024/), 2024.
+  - [Workshop on Quantum in Consumer Technology](https://wqctatqce.github.io/), QCE 2023 & 2024.
+
+#### Professional Memberships
+
+- IEEE CTSoc Quantum in Consumer Technology Technical Committee Member.
 
 #### Research Interests
 
-Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: HPC-QC.
-My research revolves around the dependability of such hybrid systems, from the point of view of reproducibility of computation results, resilience to hardware and software failures, security and privacy of code and data.
-
-<!-- My research is focused on the reliability, compilation and problem mapping on Quantum Computing (QC) devices, as well as on the application of QC to solve complex problems. -->
+Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: HPC-QC. My research revolves around the dependability of such hybrid systems, including reproducibility of computation results, resilience to hardware and software failures, and security and privacy of code and data.
 
 #### CV
 
@@ -48,8 +61,3 @@ Updated CV available [here](CV_edoardo_giusto.pdf).
 
 Available [here](https://docs.google.com/document/d/1WLoO7PI8x539bZrD9oJePt2C0vzhdBDRaLGat58_nTI/edit?usp=sharing).
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
