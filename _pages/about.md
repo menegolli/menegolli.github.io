@@ -28,7 +28,7 @@ Before joining the University of Naples, I served as a Postdoctoral Research Ass
 
 #### Research Interests
 
-Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: QHPC. My research revolves around the dependability of such hybrid systems, including reproducibility of computation results, resilience to hardware and software failures, and security and privacy of code and data.
+Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to the emergence of a new computing paradigm: QHPC. My research revolves around the dependability of such hybrid systems, including reproducibility of computation results, resilience to hardware and software failures, and security and privacy of code and data. Latest arXiv paper: [Dependable Classical-Quantum Computer Systems Engineering](https://arxiv.org/abs/2408.10484).
 
 #### Conference Organization and Committee Engagement
 
