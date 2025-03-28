@@ -55,7 +55,7 @@ Quantum Computing (QC) offers the potential to enhance traditional High-Performa
 
 #### CV
 
-Updated CV available [here](CV_edoardo_giusto.pdf).
+Updated CV available [here](../CV_edoardo_giusto.pdf).
 
 #### Master's Degree Thesis Proposals
 
