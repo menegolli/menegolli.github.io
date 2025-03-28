@@ -41,7 +41,7 @@ Before joining the University of Naples, I served as a Postdoctoral Research Ass
   - [Design Automation Conference (DAC)](https://www.dac.com/)
 
 - **Organizer:**
-  - [Special Session "Good, Bad, & Ugly in Quantum Computing"](https://ets2025.eu/special-sessions/), ETS 2025.
+  - [Special Session "Good, Bad, & Ugly in Quantum Computing"](https://ets2025.taltech.ee/), ETS 2025.
   - [Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS)](https://publish.illinois.edu/v-dcqcse2024/), 2024.
   - [Workshop on Quantum in Consumer Technology](https://wqctatqce.github.io/), QCE 2023 & 2024.
 
