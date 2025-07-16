@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ [University of Naples, Federico II](https://www.unina.it/en_GB/home), co-Founder @ [Helix 42](https://helix-ft.com/)
+subtitle: Assistant Professor @ University of Naples, Federico II, co-Founder @ Helix 42
 
 profile:
   align: right
