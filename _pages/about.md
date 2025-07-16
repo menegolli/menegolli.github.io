@@ -23,6 +23,7 @@ social: true
 ---
 
 Currently, I hold the position of Assistant Professor with the [Department of Electrical Engineering and Information Technology](https://www.dieti.unina.it/index.php/en/) at the [University of Naples Federico II, Italy](https://www.unina.it/en_GB/home).
+I'm also a co-founder at [Helix 42](https://helix-ft.com/), where we are builing next-generation orchestration for hybrid quantum-classical supercomputers.
 
 Before joining the University of Naples, I served as a Postdoctoral Research Assistant at [Politecnico di Torino](https://www.polito.it/en) and as a visiting postdoc at the [Superconducting Quantum Materials and Systems (SQMS) center](https://sqmscenter.fnal.gov/) at [Fermi National Accelerator Laboratory](https://www.fnal.gov/) under an EU [Next Generation Internet Enrichers](https://enrichers.ngi.eu/meet-our-fellows-2/) fellowship.
 
