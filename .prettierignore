@@ -3,3 +3,21 @@
 assets/css/main.scss
 assets/plotly/demo.html
 lighthouse_results/**
+
+# BELOW SUGGESTED BY GEMINI
+# Ignore Jekyll build output
+_site/
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Jekyll cache
+.jekyll-cache/
+
+# Ignore vendor assets often copied or minified
+# You might need to adjust or add to this depending on your specific setup
+assets/js/min/
+assets/css/min/
+
+# Ignore any specific files you don't want formatted
+# _config.yml # Sometimes you might want to format this, sometimes not

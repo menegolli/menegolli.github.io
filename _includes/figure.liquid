@@ -1,8 +1,14 @@
-{% assign img_path = include.path | remove: '.jpg' | remove: '.jpeg' | remove: '.png' | remove: '.tiff' | remove: '.gif' %}
+{% assign img_path = include.path
+  | remove: '.jpg'
+  | remove: '.jpeg'
+  | remove: '.png'
+  | remove: '.tiff'
+  | remove: '.gif'
+%}
 
 <figure
   {% if include.slot %}
-    slot="{{ include.slot }}"
+    slot='{{ include.slot }}'
   {% endif %}
 >
   <picture>
@@ -13,48 +19,48 @@
     -->
     {% if site.imagemagick.enabled %}
       <source
-        class="responsive-img-srcset"
-        srcset="{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}"
+        class='responsive-img-srcset'
+        srcset='{% for i in site.imagemagick.widths %}{{ img_path | relative_url }}-{{ i }}.webp {{i}}w,{% endfor %}'
         {% if include.sizes %}
-          sizes="{{include.sizes}}"
+          sizes='{{include.sizes}}'
         {% else %}
-          sizes="95vw"
+          sizes='95vw'
         {% endif %}
-        type="image/webp"
+        type='image/webp'
       >
     {% endif %}
     <img
-      src="{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}"
+      src='{% if include.cache_bust %}{{ include.path | relative_url | bust_file_cache }}{% else %}{{ include.path | relative_url }}{% endif %}'
       {% if include.class %}
-        class="{{ include.class }}"
+        class='{{ include.class }}'
       {% endif %}
       {% if include.width %}
-        width="{{ include.width }}"
+        width='{{ include.width }}'
       {% else %}
-        width="100%"
+        width='100%'
       {% endif %}
       {% if include.height %}
-        height="{{ include.height }}"
+        height='{{ include.height }}'
       {% else %}
-        height="auto"
+        height='auto'
       {% endif %}
       {% if include['min-width'] %}
-        min-width="{{ include.min-width }}"
+        min-width='{{ include.min-width }}'
       {% endif %}
       {% if include['min-height'] %}
-        min-height="{{ include.min-height }}"
+        min-height='{{ include.min-height }}'
       {% endif %}
       {% if include['max-width'] %}
-        max-width="{{ include.max-width }}"
+        max-width='{{ include.max-width }}'
       {% endif %}
       {% if include['max-height'] %}
-        max-height="{{ include.max-height }}"
+        max-height='{{ include.max-height }}'
       {% endif %}
       {% if include.alt %}
-        alt="{{ include.alt }}"
+        alt='{{ include.alt }}'
       {% endif %}
       {% if include.title %}
-        title="{{ include.title }}"
+        title='{{ include.title }}'
       {% endif %}
       {% if include.zoomable %}
         data-zoomable
@@ -64,6 +70,6 @@
   </picture>
 
   {% if include.caption %}
-    <figcaption class="caption">{{ include.caption }}</figcaption>
+    <figcaption class='caption'>{{ include.caption }}</figcaption>
   {% endif %}
 </figure>
