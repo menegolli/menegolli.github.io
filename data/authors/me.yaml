@@ -2,115 +2,143 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Edoardo Giusto
+  given: Edoardo
+  family: Giusto
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: ''  # Example: he/him
 postnominals:
   - PhD
-  - MIEEE
-status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+role: ViCAS Fellow
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Edo Giusto is a ViCAS Fellow at the University of Vienna and a co-founder of Helix 42, where he
+  heads quantum computing. Previously, he was an Assistant Professor at the Department of Electrical
+  Engineering and Information Technology of the University of Naples Federico II.
+  His research focuses on the dependability of hybrid classical-quantum (HPC-QC) systems:
+  reproducibility of computation results, resilience to hardware and software failures, and
+  security and privacy of code and data.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: University of Vienna
+    url: https://www.univie.ac.at/en/
+  - name: Helix 42
+    url: https://helix-ft.com/
+  - name: University of Naples Federico II
+    url: https://www.unina.it/en_GB/home
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: mailto:edoardo.giusto@gmail.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/menegolli
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/edoardogiusto/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=la8l3nQAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-8371-6685
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Quantum Computing
+  - HPC-Quantum Integration
+  - Dependability and Fault Injection
+  - Security and Privacy
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: PhD in Computer and Systems Engineering
+    institution: Politecnico di Torino, Italy
+    start: 2017-11-01
+    end: 2021-09-14
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Thesis: Sensor-based ICT systems for Smart Societies. Advisor: Prof. Maurizio Rebaudengo.
+  - degree: Master's Degree in Computer Engineering
+    institution: Politecnico di Torino, Italy
+    start: 2014-09-01
+    end: 2017-07-27
+    summary: |
+      Design and implementation of a low-cost, high-precision air pollution monitoring IoT device.
+      Thesis carried out at LiP6, Université Pierre et Marie Curie, Paris.
+  - degree: Bachelor's Degree in Computer Engineering
+    institution: Politecnico di Torino, Italy
+    start: 2010-09-01
+    end: 2015-03-31
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: ViCAS Fellow
+    org: University of Vienna, Vienna Center for Advanced Studies
+    start: 2026-10-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Selected for the inaugural ViCAS fellowship cohort. Project: Engineering Dependable Quantum
+      High-Performance Computing Infrastructures for Future Scientific and Societal Applications.
+  - role: Co-Founder, Head of Quantum Computing
+    org: Helix 42
+    start: 2025-03-01
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      Head of Quantum Computing at Helix 42.
+  - role: Assistant Professor (RTD-A)
+    org: University of Naples Federico II, Department of Electrical Engineering and Information Technology
+    start: 2023-12-29
+    end: 2026-09-30
+    summary: |
+      Position supported by the National Centre for HPC, Big Data and Quantum Computing (CN1), within the Italian PNRR.
+  - role: Visiting Assistant Professor
+    org: Oak Ridge National Laboratory
+    start: 2024-07-29
+    end: 2024-08-27
+    summary: |
+      Visiting period at the Quantum Science Center, hosted by Dr. Travis S. Humble.
+  - role: Visiting Postdoc
+    org: University of Illinois Urbana-Champaign
+    start: 2023-11-27
+    end: 2023-12-01
+    summary: |
+      Visiting period in the DEPEND research group at the Coordinated Science Laboratory, hosted by Prof. Ravishankar K. Iyer.
+  - role: NGI Enrichers Fellow
+    org: SQMS, Fermi National Accelerator Laboratory
+    start: 2023-08-01
+    end: 2023-12-31
+    summary: |
+      CRIT-Q: characterization of the impact of cosmic-ray-induced transient faults on superconducting qubits.
+      Supervisor: Dr. Silvia Zorzetti.
+  - role: Postdoctoral Research Assistant
+    org: Politecnico di Torino, Department of Control and Computer Engineering
+    start: 2022-04-01
+    end: 2023-12-31
+    summary: |
+      Reliability assessment of quantum computing devices, compilation and problem mapping, and quantum
+      computing applications for IoT, Industry 4.0 and finance. Investigation of wireless sensor networks
+      for low-cost air pollution monitoring.
 
 languages:
-  - name: English
+  - name: Italian
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: TOEFL 101/120
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Outstanding TPC Member
+    awarder: ACM DAC Chips to Systems Conference 2026
+    date: "2026-01-01"
+    icon: hero/trophy
+  - title: NGI Enrichers Transatlantic Fellowship
+    awarder: NGI - Next Generation Internet
+    date: "2023-08-01"
+    summary: Funding for a 5-month visiting research period at SQMS - Fermilab.
+    icon: hero/trophy
+  - title: 3rd Prize, PhD Award Competition (3rd year)
+    awarder: Politecnico di Torino
+    date: "2021-01-01"
+    icon: hero/trophy
+  - title: 3rd Prize, PhD Award Competition (2nd year)
+    awarder: Politecnico di Torino
+    date: "2020-01-01"
+    icon: hero/trophy
+  - title: Community Choice Award
+    awarder: IBM Qiskit Camp Europe 2019
+    date: "2019-09-01"
+    summary: 'Team project "Quantum synth: a quantum-computer-based music synthesizer".'
     icon: hero/trophy

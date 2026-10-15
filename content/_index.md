@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/CV_edoardo_giusto.pdf
       headings:
         about: ''
         education: ''
@@ -38,11 +38,25 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Quantum Computing (QC) offers the potential to enhance traditional High-Performance Computing (HPC) workloads by leveraging the unique properties of qubits, leading to a new computing paradigm: HPC-QC. My research revolves around the *dependability* of such hybrid systems, from the point of view of *reproducibility* of computation results, *resilience* to hardware and software failures, and *security and privacy* of code and data.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Latest arXiv paper: [Dependable Classical-Quantum Computer Systems Engineering](https://arxiv.org/abs/2408.10484).
 
-        Please reach out to collaborate 😃
+        Master's thesis proposals are available [here](https://docs.google.com/document/d/1WLoO7PI8x539bZrD9oJePt2C0vzhdBDRaLGat58_nTI/edit?usp=sharing).
+    design:
+      columns: '1'
+  - block: markdown
+    content:
+      title: '🏛️ Professional Service'
+      subtitle: ''
+      text: |-
+        **General Chair:** FORCE Workshop @ DSN 2025 & 2026; 1st Workshop on Dependability Challenges in Hybrid Classical-Quantum Computing Systems @ QCE 2024; Virtual Workshop on Dependable Classical-Quantum Computing Systems Engineering (DCQCS) @ UIUC 2024.
+
+        **Organizer:** Special Session "Good, Bad, & Ugly in Quantum Computing" @ ETS 2025; Software for the Integration of Quantum and HPC Ecosystems Workshop @ SC 2025 & 2026; Workshop on Quantum in Consumer Technology @ QCE 2023, 2024 & 2025.
+
+        **Program / Technical Committee Member:** DAC 2025 & 2026; DATE 2025 & 2026; Software Frameworks for Integrating Quantum and HPC Ecosystems @ ICS 2025; QCCC @ ISCA 2025; HAIQ @ HPCA 2025; QUILLS @ TPS 2024 & 2025; IEEE Quantum Week (QCE) 2023 to 2026; ICCE 2024 (Track Chair); Topic Editor, Frontiers in Computer Science.
+
+        **Memberships:** ACM and IEEE. Vice-Chair, IEEE CTSoc Quantum in Consumer Technology (2025-2026).
     design:
       columns: '1'
   - block: collection
@@ -66,44 +80,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the HugoBlox Kit demo site
     content:
