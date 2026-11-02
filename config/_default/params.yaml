@@ -21,7 +21,7 @@ hugoblox:
     # Short tagline displayed on your site
     tagline: "ViCAS Fellow, University of Vienna"
     # Site meta description for search engines and social sharing
-    description: "ViCAS Fellow at the University of Vienna. Research on the dependability of hybrid classical-quantum (HPC-QC) systems."
+    description: "ViCAS Fellow at the University of Vienna. Research on the dependability of Quantum-High Performance Computing (QHPC) systems."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
       twitter: "" # Twitter/X handle for Twitter Cards (without @)

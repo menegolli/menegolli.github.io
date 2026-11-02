@@ -26,10 +26,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Energies*'
+publication: '*Energies*, 13(15), 3820'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.3390/en13153820
 
-doi: ''
 
 abstract: ''
 
@@ -71,4 +73,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

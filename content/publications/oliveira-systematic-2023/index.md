@@ -29,10 +29,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Dependable and Secure Computing*'
+publication: '*IEEE Transactions on Dependable and Secure Computing*, 21(4), 2631–2644'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/tdsc.2023.3313934
 
-doi: ''
 
 abstract: ''
 
@@ -74,4 +76,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

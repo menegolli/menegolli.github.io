@@ -27,10 +27,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IT Professional*'
+publication: '*IT Professional*, 22(6), 90–96'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/mitp.2020.2974690
 
-doi: ''
 
 abstract: ''
 
@@ -72,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

@@ -25,10 +25,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Proceedings of the 15th International Audio Mostly Conference*'
+publication: '*Proceedings of the 15th International Audio Mostly Conference*, 265–268'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1145/3411109.3411135
 
-doi: ''
 
 abstract: ''
 
@@ -70,4 +72,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

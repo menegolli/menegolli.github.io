@@ -33,10 +33,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Sensors*'
+publication: '*Sensors*, 22(7), 2773'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.3390/s22072773
 
-doi: ''
 
 abstract: ''
 
@@ -78,4 +80,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

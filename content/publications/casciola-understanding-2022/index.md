@@ -29,11 +29,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2022 IEEE 28th International Symposium on On-Line Testing and Robust
-  System Design (IOLTS)*'
+publication: '*2022 IEEE 28th International Symposium on On-Line Testing and Robust System Design (IOLTS)*, 1–7'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/iolts56730.2022.9897308
 
-doi: ''
 
 abstract: ''
 
@@ -75,4 +76,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

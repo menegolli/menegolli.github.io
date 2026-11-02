@@ -32,10 +32,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2023 IEEE International Conference on Consumer Electronics (ICCE)*'
+publication: '*2023 IEEE International Conference on Consumer Electronics (ICCE)*, 1–6'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/icce56470.2023.10043394
 
-doi: ''
 
 abstract: ''
 
@@ -77,4 +79,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

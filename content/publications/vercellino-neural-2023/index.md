@@ -31,11 +31,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2023 IEEE 47th Annual Computers, Software, and Applications Conference
-  (COMPSAC)*'
+publication: '*2023 IEEE 47th Annual Computers, Software, and Applications Conference (COMPSAC)*, 380–389'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/compsac57700.2023.00058
 
-doi: ''
 
 abstract: ''
 
@@ -77,4 +78,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

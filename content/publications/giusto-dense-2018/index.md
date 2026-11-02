@@ -27,10 +27,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2018 6th International EURASIP Workshop on RFID Technology (EURFID)*'
+publication: '*2018 6th International EURASIP Workshop on RFID Technology (EURFID)*, 1–7'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/eurfid.2018.8611649
 
-doi: ''
 
 abstract: ''
 
@@ -72,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

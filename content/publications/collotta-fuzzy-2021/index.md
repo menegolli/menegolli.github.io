@@ -30,10 +30,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*International Journal of Intelligent Systems*'
+publication: '*International Journal of Intelligent Systems*, 36(4), 1595–1618'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1002/int.22353
 
-doi: ''
 
 abstract: ''
 
@@ -75,4 +77,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

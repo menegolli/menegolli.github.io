@@ -32,10 +32,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Frontiers in Computer Science*'
+publication: '*Frontiers in Computer Science*, 7'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.3389/fcomp.2025.1520903
 
-doi: ''
 
 abstract: ''
 
@@ -45,7 +47,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: ''
@@ -77,4 +79,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

@@ -27,10 +27,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE engineering management review*'
+publication: '*IEEE Engineering Management Review*, 52(2), 9–15'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/emr.2024.3373796
 
-doi: ''
 
 abstract: ''
 
@@ -72,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

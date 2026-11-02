@@ -29,10 +29,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Vehicular Technology*'
+publication: '*IEEE Transactions on Vehicular Technology*, 69(12), 15786–15799'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/tvt.2020.3035554
 
-doi: ''
 
 abstract: ''
 
@@ -74,4 +76,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

@@ -30,11 +30,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2024 IEEE International Conference on Quantum Computing and Engineering
-  (QCE)*'
+publication: '*2024 IEEE International Conference on Quantum Computing and Engineering (QCE)*, 296–305'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/qce60285.2024.00043
 
-doi: ''
 
 abstract: ''
 
@@ -76,4 +77,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

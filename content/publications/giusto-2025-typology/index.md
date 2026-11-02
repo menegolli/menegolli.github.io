@@ -27,13 +27,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2025 55th Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks Workshops (DSN-W)*'
+publication: '*2025 55th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)*, 188–195'
 publication_short: ''
-
 hugoblox:
   ids:
-    doi: 10.1109/DSN-W65791.2025.00060
+    doi: 10.1109/dsn-w65791.2025.00060
+
 
 abstract: ''
 
@@ -43,7 +42,7 @@ summary: ''
 tags: []
 
 # Display this page in a list of Featured pages?
-featured: false
+featured: true
 
 # Links
 url_pdf: ''
@@ -75,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

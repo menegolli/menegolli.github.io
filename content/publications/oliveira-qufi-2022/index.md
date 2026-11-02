@@ -31,11 +31,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks (DSN)*'
+publication: '*2022 52nd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN)*, 137–149'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/dsn53405.2022.00025
 
-doi: ''
 
 abstract: ''
 
@@ -77,4 +78,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

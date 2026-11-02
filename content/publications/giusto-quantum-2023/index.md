@@ -29,11 +29,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems
-  and Networks-Supplemental Volume (DSN-S)*'
+publication: '*2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks - Supplemental Volume (DSN-S)*, 2–3'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/dsn-s58398.2023.00015
 
-doi: ''
 
 abstract: ''
 
@@ -75,4 +76,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

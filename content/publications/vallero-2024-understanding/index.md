@@ -27,10 +27,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Transactions on Quantum Engineering*'
+publication: '*IEEE Transactions on Quantum Engineering*, 5, 1–14'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/tqe.2024.3372880
 
-doi: ''
 
 abstract: ''
 
@@ -72,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

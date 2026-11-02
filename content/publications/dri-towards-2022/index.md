@@ -26,10 +26,12 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Physics: Conference Series*'
+publication: '*Journal of Physics: Conference Series*, 2416(1), 012002'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1088/1742-6596/2416/1/012002
 
-doi: ''
 
 abstract: ''
 
@@ -71,4 +73,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

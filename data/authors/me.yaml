@@ -12,10 +12,10 @@ postnominals:
   - PhD
 role: ViCAS Fellow
 bio: |
-  Edo Giusto is a ViCAS Fellow at the University of Vienna and a co-founder of Helix 42, where he
+  Edo Giusto is a Mid-Career Fellow at the Vienna Center for Advanced Studies (ViCAS), University of Vienna and a co-founder of Helix 42, where he
   heads quantum computing. Previously, he was an Assistant Professor at the Department of Electrical
   Engineering and Information Technology of the University of Naples Federico II.
-  His research focuses on the dependability of hybrid classical-quantum (HPC-QC) systems:
+  His research focuses on the dependability of Quantum-High Performance Computing (QHPC) systems:
   reproducibility of computation results, resilience to hardware and software failures, and
   security and privacy of code and data.
 
@@ -24,12 +24,10 @@ affiliations:
     url: https://www.univie.ac.at/en/
   - name: Helix 42
     url: https://helix-ft.com/
-  - name: University of Naples Federico II
-    url: https://www.unina.it/en_GB/home
 
 links:
   - icon: at-symbol
-    url: mailto:edoardo.giusto@gmail.com
+    url: mailto:egiusto@ieee.org
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/menegolli
@@ -39,12 +37,14 @@ links:
     url: https://scholar.google.com/citations?user=la8l3nQAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0001-8371-6685
+  - icon: academicons/cv
+    url: uploads/CV_edoardo_giusto.pdf
+    label: Download my CV
 
 interests:
   - Quantum Computing
-  - HPC-Quantum Integration
+  - QHPC Integration
   - Dependability and Fault Injection
-  - Security and Privacy
 
 education:
   - degree: PhD in Computer and Systems Engineering
@@ -83,7 +83,7 @@ experience:
     end: 2026-09-30
     summary: |
       Position supported by the National Centre for HPC, Big Data and Quantum Computing (CN1), within the Italian PNRR.
-  - role: Visiting Assistant Professor
+  - role: Visiting Scholar
     org: Oak Ridge National Laboratory
     start: 2024-07-29
     end: 2024-08-27

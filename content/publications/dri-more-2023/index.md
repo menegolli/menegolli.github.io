@@ -29,10 +29,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Entropy*'
+publication: '*Entropy*, 25(4), 593'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.3390/e25040593
 
-doi: ''
 
 abstract: ''
 
@@ -74,4 +76,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

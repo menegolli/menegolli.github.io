@@ -32,10 +32,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*IEEE Sensors Journal*'
+publication: '*IEEE Sensors Journal*, 23(2), 1613–1622'
 publication_short: ''
+hugoblox:
+  ids:
+    doi: 10.1109/jsen.2022.3227463
 
-doi: ''
 
 abstract: ''
 
@@ -77,4 +79,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

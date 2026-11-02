@@ -27,12 +27,12 @@ publication_types:
 - article-journal
 
 # Publication name and optional abbreviated publication name.
-publication: '*Applied Soft Computing*'
+publication: '*Applied Soft Computing*, 201, 115664'
 publication_short: ''
-
 hugoblox:
   ids:
     doi: 10.1016/j.asoc.2026.115664
+
 
 abstract: ''
 
@@ -74,4 +74,4 @@ image:
 projects: []
 ---
 
-Add the **full text** or **supplementary notes** for the publication here using Markdown formatting.
+

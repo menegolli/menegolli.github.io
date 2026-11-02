@@ -1,6 +1,9 @@
 ---
 title: Quantum Synth
 date: 2019-09-12
+links:
+  - type: video
+    url: https://www.youtube.com/watch?v=q2E9PL2YTkk
 tags:
   - Quantum Computing
   - Music
